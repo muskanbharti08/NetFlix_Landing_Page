@@ -1,3 +1,6 @@
+live link for our netlifix landing page
+https://muskanbharti08.github.io/NetFlix_Landing_Page/
+
 some screenshots
 
 ![alt text](image.png)
